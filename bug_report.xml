@@ -1,1 +1,5 @@
-
+<bug_report_fields>
+  <bug_description>wrong preview</bug_description>
+  <priotity>high</priority>
+  <severity>low</severity>
+</bug_report_fields>
